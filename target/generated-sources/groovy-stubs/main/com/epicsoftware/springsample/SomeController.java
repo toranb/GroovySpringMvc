@@ -12,15 +12,14 @@ import groovy.lang.*;
 import groovy.util.*;
 import java.math.BigDecimal;
 import java.math.BigInteger;
-import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.servlet.ModelAndView;
 
 public class SomeController
     extends java.lang.Object
     implements groovy.lang.GroovyObject
 {
-    public java.lang.String showUserForm() {
+    public ModelAndView helloWorld() {
         throw new InternalError("Stubbed method");
     }
 
