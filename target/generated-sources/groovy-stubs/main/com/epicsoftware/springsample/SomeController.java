@@ -1,5 +1,5 @@
 //
-// Generated stub from file:/c:/ICC/Android/spring-mvc-test/src/main/groovy/com/epicsoftware/springsample/SomeController.groovy
+// Generated stub from file:/c:/ICC/GroovyMvc/spring-mvc-test/src/main/groovy/com/epicsoftware/springsample/SomeController.groovy
 //
 
 package com.epicsoftware.springsample;
